@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import { LineWave } from 'react-loader-spinner';
 import { useDispatch } from 'react-redux';
 import { Navigate, useNavigate } from 'react-router-dom';
 import { verificarJWT } from '../store/auth';
